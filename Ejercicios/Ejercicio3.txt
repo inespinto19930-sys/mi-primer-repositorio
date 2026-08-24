@@ -1,0 +1,1 @@
+Crea un programa que permita ingresar varias notas de un estudiante, calcule el promedio y muestre si aprobo o no aprobo
