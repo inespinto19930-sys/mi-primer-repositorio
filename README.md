@@ -1,2 +1,11 @@
 # mi-primer-repositorio
-mi repositorio creado como practica de control de versiones y utilización de GitHub
+## Descripción
+Este repositorio fue creado para aprender los fundamentos de GitHub
+## autor
+Nicole Florez, Ines Caceres 
+## Tecnologías
+- Git
+- GitHub
+- Markdown
+  ## Objetivo
+  Aprender a utilizar repositorios y control de versiones 
